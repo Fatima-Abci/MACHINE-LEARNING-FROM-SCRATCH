@@ -1,7 +1,7 @@
 # MACHINE-LEARNING-FROM-SCRATCH
 ## ABOUT
-This repository contains several machine learning algorithms that I've coded from scratch in Python.
-## Implemented Machine Learning Algorithms
+This repository contains some machine learning algorithms that i've coded from scratch in Python.
+## Implemented algorithms
 - KNN
 - Gradient descent
 - Linear regression
